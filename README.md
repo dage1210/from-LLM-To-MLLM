@@ -2,6 +2,12 @@
 大模型基础 多模态大模型 教程，模型，数据等
 
 # 综述 
+## tasks
+https://huggingface.co/tasks 
+https://huggingface.co/tasks/visual-document-retrieval 
+https://huggingface.co/tasks/document-question-answering 
+https://huggingface.co/docs/transformers/tasks/document_question_answering
+![Uploading image.png…]()
 
 ## suvery and papers
 https://github.com/Yangyi-Chen/Multimodal-AND-Large-Language-Models
@@ -33,6 +39,12 @@ https://stanford-cs324.github.io/winter2022/lectures/introduction/
 
 
 # 训练
+https://hugging-face.cn/learn/computer-vision-course/unit4/multimodal-models/transfer_learning  
+
+## 多模态领域的指令调优
+模型，LLaVa
+https://llava-vl.github.io/  
+https://github.com/haotian-liu/LLaVA?tab=readme-ov-file#train 
 
 ## 微调 clip
 在自定义数据集上微调, 模型 CLIP	openai/clip-vit-base-patch32  
