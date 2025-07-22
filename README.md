@@ -2,6 +2,12 @@
 大模型基础 多模态大模型 教程，模型，数据等
 
 # 综述 
+
+## lib 
+含有cmu各类多模态课程   
+https://github.com/pliang279/awesome-multimodal-ml  
+
+
 ## tasks
 https://huggingface.co/tasks   
 https://huggingface.co/tasks/visual-document-retrieval   
@@ -18,7 +24,7 @@ MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs https://arxi
 
 ## 11-777 MMML 
 https://cmu-multicomp-lab.github.io/mmml-course/fall2023/schedule/   
-
+ref list : https://cmu-multicomp-lab.github.io/mmml-course/fall2023/readings/  
 
 ## 多模态入门
 https://huyenchip.com/2023/10/10/multimodal.html
