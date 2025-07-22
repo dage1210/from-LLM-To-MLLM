@@ -12,7 +12,7 @@ MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs https://arxi
 
 
 ## 动手学习大模型
-上海交通大学2024年春季《人工智能安全技术》课程（NIS3353）讲义拓展而来（教师：张倬胜），旨在提供大模型相关的入门编程参考。本教程属公益性质、完全免费。通过简单实践，帮助同学们快速入门大模型，更好地开展课程设计或学术研究。
+上海交通大学2024年春季《人工智能安全技术》课程（NIS3353）讲义拓展而来（教师：张倬胜），旨在提供大模型相关的入门编程参考。本教程属公益性质、完全免费。通过简单实践，帮助同学们快速入门大模型，更好地开展课程设计或学术研究。  
 https://github.com/Lordog/dive-into-llms  
 
 ## 计算机视觉
@@ -20,7 +20,7 @@ https://hugging-face.cn/learn/computer-vision-course/unit4/multimodal-models/cli
 
 ## 大模型理论基础
 
-以斯坦福大学大规模语言模型课程为基础，结合来自开源贡献者的补充和完善，以及对前沿大模型知识的及时更新，为读者提供较为全面而深入的理论知识和实践方法，对模型构建、训练、评估与改进等方面的系统性讲解。
+以斯坦福大学大规模语言模型课程为基础，结合来自开源贡献者的补充和完善，以及对前沿大模型知识的及时更新，为读者提供较为全面而深入的理论知识和实践方法，对模型构建、训练、评估与改进等方面的系统性讲解。  
 https://datawhalechina.github.io/so-large-lm/#/  
 
 
@@ -31,9 +31,9 @@ https://datawhalechina.github.io/so-large-lm/#/
 
 # 模型
 ## Awesome-Multimodal-Large-Language-Models
-南京大学Mig小组 papers and datasets
+南京大学Mig小组 papers and datasets  
 https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
-## awesome-foundation-and-multimodal-models
+## awesome-foundation-and-multimodal-models  
 https://github.com/SkalskiP/awesome-foundation-and-multimodal-models
 
 # 智能体
