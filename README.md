@@ -19,6 +19,8 @@ https://mllm2024.github.io/CVPR2024/
 https://github.com/Lordog/dive-into-llms  
 
 ## 计算机视觉
+
+https://cs231n.github.io/  the Stanford CS class CS231n: Deep Learning for Computer Vision.   
 https://hugging-face.cn/learn/computer-vision-course/unit4/multimodal-models/clip-and-relatives/clip
 
 ## 大模型理论基础
@@ -31,6 +33,17 @@ https://stanford-cs324.github.io/winter2022/lectures/introduction/
 
 
 # 训练
+
+## 微调clip
+在自定义数据集上微调, 模型 CLIP	openai/clip-vit-base-patch32  
+https://colab.research.google.com/github/fariddinar/computer-vision-course/blob/main/notebooks/Unit%204%20-%20Multimodal%20Models/Clip_finetune.ipynb  
+## VQA 
+根据图像用自然语言回答问题 ,language based on an image	，模型： dandelin/vilt-b32-mlm  
+https://colab.research.google.com/github/huggingface/notebooks/blob/main/transformers_doc/en/pytorch/visual_question_answering.ipynb   
+
+## 描述图片
+用自然语言描述图像，模型：	microsoft/git-base  
+https://colab.research.google.com/github/huggingface/notebooks/blob/main/transformers_doc/en/pytorch/image_captioning.ipynb  
 
 # 数据 
 
