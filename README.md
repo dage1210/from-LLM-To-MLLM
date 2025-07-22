@@ -3,11 +3,11 @@
 
 # 综述 
 ## tasks
-https://huggingface.co/tasks 
-https://huggingface.co/tasks/visual-document-retrieval 
-https://huggingface.co/tasks/document-question-answering 
-https://huggingface.co/docs/transformers/tasks/document_question_answering
-![Uploading image.png…]()
+https://huggingface.co/tasks   
+https://huggingface.co/tasks/visual-document-retrieval   
+https://huggingface.co/tasks/document-question-answering   
+https://huggingface.co/docs/transformers/tasks/document_question_answering  
+![Uploading image.png…]()  
 
 ## suvery and papers
 https://github.com/Yangyi-Chen/Multimodal-AND-Large-Language-Models
