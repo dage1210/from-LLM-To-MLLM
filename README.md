@@ -7,7 +7,7 @@ https://huggingface.co/tasks
 https://huggingface.co/tasks/visual-document-retrieval   
 https://huggingface.co/tasks/document-question-answering   
 https://huggingface.co/docs/transformers/tasks/document_question_answering  
-![Uploading image.png…]()  
+
 
 ## suvery and papers
 https://github.com/Yangyi-Chen/Multimodal-AND-Large-Language-Models
@@ -15,6 +15,13 @@ meta AI model and papaer https://github.com/facebookresearch/multimodal
 MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs https://arxiv.org/pdf/2411.15296
 
 # 教程
+
+## 11-777 MMML 
+https://cmu-multicomp-lab.github.io/mmml-course/fall2023/schedule/   
+
+
+## 多模态入门
+https://huyenchip.com/2023/10/10/multimodal.html
 
 ##  From Multimodal LLM to Human-level AI : Modality, Instruction, Reasoning, Efficiency and Beyond   
 the MLLM Tutorial series on CVPR 2024! 关注阅读的papers    
