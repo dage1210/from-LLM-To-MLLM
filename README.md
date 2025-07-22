@@ -23,6 +23,9 @@ https://hugging-face.cn/learn/computer-vision-course/unit4/multimodal-models/cli
 以斯坦福大学大规模语言模型课程为基础，结合来自开源贡献者的补充和完善，以及对前沿大模型知识的及时更新，为读者提供较为全面而深入的理论知识和实践方法，对模型构建、训练、评估与改进等方面的系统性讲解。  
 https://datawhalechina.github.io/so-large-lm/#/  
 
+## cs324  a new course on understanding and developing large language models.  
+https://stanford-cs324.github.io/winter2022/lectures/introduction/ 
+
 
 # 训练
 
