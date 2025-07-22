@@ -34,14 +34,14 @@ https://stanford-cs324.github.io/winter2022/lectures/introduction/
 
 # 训练
 
-## 微调clip
+## 微调 clip
 在自定义数据集上微调, 模型 CLIP	openai/clip-vit-base-patch32  
 https://colab.research.google.com/github/fariddinar/computer-vision-course/blob/main/notebooks/Unit%204%20-%20Multimodal%20Models/Clip_finetune.ipynb  
-## VQA 
+## 微调 VQA 
 根据图像用自然语言回答问题 ,language based on an image	，模型： dandelin/vilt-b32-mlm  
 https://colab.research.google.com/github/huggingface/notebooks/blob/main/transformers_doc/en/pytorch/visual_question_answering.ipynb   
 
-## 描述图片
+## 微调 描述图片，Image captioning
 用自然语言描述图像，模型：	microsoft/git-base  
 https://colab.research.google.com/github/huggingface/notebooks/blob/main/transformers_doc/en/pytorch/image_captioning.ipynb  
 
@@ -55,11 +55,17 @@ https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
 ## awesome-foundation-and-multimodal-models  
 https://github.com/SkalskiP/awesome-foundation-and-multimodal-models
 
+## yolo  
+https://docs.ultralytics.com/zh/models/yolo-world/#set-prompts 
+
 # 智能体
 https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers
 
 
 # 应用
+
+## 计算机视觉解决方案
+https://docs.ultralytics.com/zh/solutions/#contribute-to-our-solutions  
 
 ## 文字，图片，视频搜索
 代码： https://github.com/chn-lee-yumi/MaterialSearch
