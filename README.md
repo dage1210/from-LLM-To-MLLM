@@ -22,6 +22,9 @@ MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs https://arxi
 
 # 教程
 
+## 加州理工学院大型语言和视觉模型课程
+https://gkioxari.github.io/teaching/cs148/  
+
 ## 11-777 MMML 
 https://cmu-multicomp-lab.github.io/mmml-course/fall2023/schedule/   
 ref list : https://cmu-multicomp-lab.github.io/mmml-course/fall2023/readings/  
@@ -91,6 +94,11 @@ https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers
 
 ## 计算机视觉解决方案
 https://docs.ultralytics.com/zh/solutions/#contribute-to-our-solutions  
+
+# 概念
+
+## VAE
+https://zhuanlan.zhihu.com/p/144649293 
 
 ## 文字，图片，视频搜索
 代码： https://github.com/chn-lee-yumi/MaterialSearch
