@@ -10,6 +10,9 @@ MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs https://arxi
 
 # 教程
 
+##  From Multimodal LLM to Human-level AI : Modality, Instruction, Reasoning, Efficiency and Beyond   
+the MLLM Tutorial series on CVPR 2024! 关注阅读的papers    
+https://mllm2024.github.io/CVPR2024/ 
 
 ## 动手学习大模型
 上海交通大学2024年春季《人工智能安全技术》课程（NIS3353）讲义拓展而来（教师：张倬胜），旨在提供大模型相关的入门编程参考。本教程属公益性质、完全免费。通过简单实践，帮助同学们快速入门大模型，更好地开展课程设计或学术研究。  
