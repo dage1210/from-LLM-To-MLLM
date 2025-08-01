@@ -16,6 +16,8 @@ https://huggingface.co/docs/transformers/tasks/document_question_answering
 
 
 ## suvery and papers
+https://arxiv.org/pdf/2401.13601 MM-LLMs:RecentAdvancesinMultiModalLargeLanguageModels   
+https://arxiv.org/pdf/2312.16602  Visual Instruction Tuning towards  General-Purpose Multimodal Model: A Survey  
 https://github.com/Yangyi-Chen/Multimodal-AND-Large-Language-Models
 meta AI model and papaer https://github.com/facebookresearch/multimodal 
 MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs https://arxiv.org/pdf/2411.15296
