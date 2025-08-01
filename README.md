@@ -18,6 +18,7 @@ https://huggingface.co/docs/transformers/tasks/document_question_answering
 ## suvery and papers
 https://arxiv.org/pdf/2401.13601 MM-LLMs:RecentAdvancesinMultiModalLargeLanguageModels   
 https://arxiv.org/pdf/2312.16602  Visual Instruction Tuning towards  General-Purpose Multimodal Model: A Survey  
+https://arxiv.org/pdf/2306.13549 A Survey on Multimodal Large Language Models  
 https://github.com/Yangyi-Chen/Multimodal-AND-Large-Language-Models
 meta AI model and papaer https://github.com/facebookresearch/multimodal 
 MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs https://arxiv.org/pdf/2411.15296
@@ -33,6 +34,8 @@ ref list : https://cmu-multicomp-lab.github.io/mmml-course/fall2023/readings/
 
 ## 多模态入门
 https://huyenchip.com/2023/10/10/multimodal.html
+https://zhuanlan.zhihu.com/p/684472814 一文看完多模态：从视觉表征到多模态大模型 - 菜人卷的文章 - 知乎  
+
 
 ##  From Multimodal LLM to Human-level AI : Modality, Instruction, Reasoning, Efficiency and Beyond   
 the MLLM Tutorial series on CVPR 2024! 关注阅读的papers    
