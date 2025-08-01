@@ -35,8 +35,7 @@ ref list : https://cmu-multicomp-lab.github.io/mmml-course/fall2023/readings/
 ## 多模态入门
 https://huyenchip.com/2023/10/10/multimodal.html
 https://zhuanlan.zhihu.com/p/684472814 一文看完多模态：从视觉表征到多模态大模型 - 菜人卷的文章 - 知乎    
-the 024.github.io/CVPR2024/  From Multimodal LLM to Human-level AI : Modality, Instruction, Reasoning, Efficiency and Beyond  MLLM Tutorial series on CVPR 2024! 关注阅读的papers    
-https://mllm2
+https://mllm2024.github.io/CVPR2024/  From Multimodal LLM to Human-level AI : Modality, Instruction, Reasoning, Efficiency and Beyond  MLLM Tutorial series on CVPR 2024! 关注阅读的papers    
 
 ## 动手学习大模型
 上海交通大学2024年春季《人工智能安全技术》课程（NIS3353）讲义拓展而来（教师：张倬胜），旨在提供大模型相关的入门编程参考。本教程属公益性质、完全免费。通过简单实践，帮助同学们快速入门大模型，更好地开展课程设计或学术研究。  
