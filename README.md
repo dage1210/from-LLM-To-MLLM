@@ -1,6 +1,10 @@
 # from-LLM-To-MLLM
 大模型基础 多模态大模型 教程，模型，数据等
 
+# Read
+【有道云笔记】多模态MLLM文章阅读
+https://share.note.youdao.com/s/WN343HiF  
+
 # 综述 
 
 ## lib 
