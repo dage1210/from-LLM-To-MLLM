@@ -18,9 +18,12 @@ https://huggingface.co/docs/transformers/tasks/document_question_answering
 https://github.com/wangxiao5791509/MultiModal_BigModels_Survey/blob/main/paperList.md  
 
 ## suvery and papers
+https://arxiv.org/pdf/2405.17927  The Evolution of Multimodal Model Architectures  
 https://arxiv.org/pdf/2401.13601 MM-LLMs:RecentAdvancesinMultiModalLargeLanguageModels   
-https://arxiv.org/pdf/2312.16602  Visual Instruction Tuning towards  General-Purpose Multimodal Model: A Survey  
+https://arxiv.org/pdf/2312.16602  Visual Instruction Tuning towards  General-Purpose Multimodal Model: A Survey 
+https://arxiv.org/pdf/2309.10020  Multimodal Foundation Models:From Specialists to General-Purpose Assistants  
 https://arxiv.org/pdf/2306.13549 A Survey on Multimodal Large Language Models  
+https://arxiv.org/pdf/2302.10035  Large-scale Multi-Modal Pre-trained Models: A Comprehensive Survey  
 https://github.com/Yangyi-Chen/Multimodal-AND-Large-Language-Models
 meta AI model and papaer https://github.com/facebookresearch/multimodal 
 MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs https://arxiv.org/pdf/2411.15296
