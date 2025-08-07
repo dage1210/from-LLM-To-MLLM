@@ -5,11 +5,11 @@
 
 ## lib 
 含有cmu各类多模态课程   
-https://github.com/pliang279/awesome-multimodal-ml  
-南京大学 MiG小组
-https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models 
-苏剑林 论文搜索工具
-https://papers.cool/
+https://github.com/pliang279/awesome-multimodal-ml    
+南京大学 MiG小组  
+https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models   
+苏剑林 论文搜索工具  
+https://papers.cool/  
 
 
 ## tasks
