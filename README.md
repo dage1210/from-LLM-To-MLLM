@@ -14,6 +14,8 @@ https://huggingface.co/tasks/visual-document-retrieval
 https://huggingface.co/tasks/document-question-answering   
 https://huggingface.co/docs/transformers/tasks/document_question_answering  
 
+## papers list
+https://github.com/wangxiao5791509/MultiModal_BigModels_Survey/blob/main/paperList.md  
 
 ## suvery and papers
 https://arxiv.org/pdf/2401.13601 MM-LLMs:RecentAdvancesinMultiModalLargeLanguageModels   
@@ -74,8 +76,16 @@ https://colab.research.google.com/github/huggingface/notebooks/blob/main/transfo
 用自然语言描述图像，模型：	microsoft/git-base  
 https://colab.research.google.com/github/huggingface/notebooks/blob/main/transformers_doc/en/pytorch/image_captioning.ipynb  
 
+
+# 评测
+
+## 基准
+https://github.com/wangxiao5791509/MultiModal_BigModels_Survey/blob/main/Benchmarking.md  
+
 # 数据 
 
+## 10 中文，20 英文 多模态数据集
+https://github.com/wangxiao5791509/MultiModal_BigModels_Survey/blob/main/Datasets.md   
 
 # 模型
 ## Awesome-Multimodal-Large-Language-Models
