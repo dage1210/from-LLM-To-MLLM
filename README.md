@@ -6,6 +6,10 @@
 ## lib 
 含有cmu各类多模态课程   
 https://github.com/pliang279/awesome-multimodal-ml  
+南京大学 MiG小组
+https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models 
+苏剑林 论文搜索工具
+https://papers.cool/
 
 
 ## tasks
@@ -16,6 +20,8 @@ https://huggingface.co/docs/transformers/tasks/document_question_answering
 
 ## papers list
 https://github.com/wangxiao5791509/MultiModal_BigModels_Survey/blob/main/paperList.md  
+https://github.com/wangxiao5791509/MultiModal_BigModels_Survey/blob/main/Surveys.md  
+https://llava-vl.github.io/blog/ LLaVa List
 
 ## suvery and papers
 https://arxiv.org/pdf/2405.17927  The Evolution of Multimodal Model Architectures  
@@ -59,6 +65,10 @@ https://datawhalechina.github.io/so-large-lm/#/
 ## cs324  a new course on understanding and developing large language models.  
 https://stanford-cs324.github.io/winter2022/lectures/introduction/ 
 
+# Blog
+
+https://adaning.github.io/posts/44986.html  
+https://adaning.github.io/posts/64567.html    
 
 # 训练
 https://hugging-face.cn/learn/computer-vision-course/unit4/multimodal-models/transfer_learning  
