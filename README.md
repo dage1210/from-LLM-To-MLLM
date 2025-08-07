@@ -114,6 +114,11 @@ https://github.com/SkalskiP/awesome-foundation-and-multimodal-models
 ## yolo  
 https://docs.ultralytics.com/zh/models/yolo-world/#set-prompts 
 
+## Gemini  
+Gemini：https://arxiv.org/abs/2312.11805  
+Gemini 1.5：https://arxiv.org/abs/2403.05530  
+Gemini 2.5：https://arxiv.org/abs/2507.06261  
+
 # 智能体
 https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers
 
